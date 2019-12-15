@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikrambhatt/CLionProjects/MetisGeomExp/adjtocsr.cpp
+string
+-
+fstream
+-
+parmetis.h
+-
+iostream
+-
+vector
+-
+mpi.h
+-
+
+/home/vikrambhatt/CLionProjects/MetisGeomExp/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+bits/stdc++.h
+-
+functional
+-
+random
+-
+parmetis.h
+-
+mpi.h
+-
+
